@@ -136,23 +136,7 @@ void loop()
   else digitalWrite(led6,LOW);
 }
  
-``` 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-![image](https://user-images.githubusercontent.com/36288975/188804653-a3154e8e-2655-46f2-9dcd-f425dd1ba109.png)
-
-
-### TABLE -02 standard deviation table 
+```
 ### Population Standard Deviation
 The population standard deviation, the standard definition of σ, is used when an entire population can be measured, and is the square root of the variance of a given data set. In cases where every member of a population can be sampled, the following equation can be used to find the standard deviation of the entire population:
 
