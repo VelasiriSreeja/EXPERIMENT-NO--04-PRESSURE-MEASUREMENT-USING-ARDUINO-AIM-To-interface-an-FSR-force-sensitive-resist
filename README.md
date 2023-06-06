@@ -153,12 +153,16 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 σ = √[(1 - 4.6)2 + (3 - 4.6)2 + ... + (8 - 4.6)2)]/5
 σ = √(12.96 + 2.56 + 0.36 + 5.76 + 11.56)/5 = 2.577
 
+OUTPUT:
+
+![Screenshot (291)](https://github.com/VelasiriSreeja/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118344328/3f8d842f-0f1f-4212-8b5b-3d869f6aaa9b)
 
 
 
 
 
 
+![Uploading Screenshot (293).jpg…]()
 
 
 
