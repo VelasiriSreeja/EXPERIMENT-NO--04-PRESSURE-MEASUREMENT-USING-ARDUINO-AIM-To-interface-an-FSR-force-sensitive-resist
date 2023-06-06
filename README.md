@@ -158,11 +158,13 @@ OUTPUT:
 ![Screenshot (291)](https://github.com/VelasiriSreeja/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118344328/3f8d842f-0f1f-4212-8b5b-3d869f6aaa9b)
 
 
+![Screenshot (292)](https://github.com/VelasiriSreeja/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118344328/9172bed9-a52d-41ba-b08c-7b21c9e379e2)
 
 
 
+![Screenshot (293)](https://github.com/VelasiriSreeja/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/assets/118344328/2776bdd4-ed35-4934-b61e-87112bf954cc)
 
-![Uploading Screenshot (293).jpg…]()
+
 
 
 
